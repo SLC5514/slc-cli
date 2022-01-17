@@ -1,0 +1,39 @@
+{
+  "name": "slc-cli",
+  "version": "1.0.0",
+  "description": "我的脚手架工具",
+  "main": "lib/slc",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SLC5514/slc-cli.git"
+  },
+  "homepage": "https://github.com/SLC5514/slc-cli#readme",
+  "keywords": [
+    "slc",
+    "cli",
+    "vue3",
+    "pnpm"
+  ],
+  "author": {
+    "name": "SLC5514",
+    "email": "slc5514@163.com",
+    "url": "https://github.com/SLC5514/slc-cli#readme"
+  },
+  "bin": {
+    "slc": "bin/slc"
+  },
+  "bugs": {
+    "url": "https://github.com/SLC5514/slc-cli/issues"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "commander": "^8.3.0",
+    "inquirer": "^8.2.0",
+    "ora": "^6.0.1",
+    "shelljs": "^0.8.5"
+  }
+}

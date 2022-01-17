@@ -1,0 +1,16 @@
+{
+  "tpl": {
+    "vue": {
+      "url": "https://github.com/dianjiu/ncun-cli-vue-demo.git",
+      "branch": "master"
+    },
+    "react": {
+      "url": "https://github.com/dianjiu/ncun-cli-react-demo.git",
+      "branch": "master"
+    },
+    "angular": {
+      "url": "https://github.com/dianjiu/ncun-cli-angular-demo.git",
+      "branch": "master"
+    }
+  }
+}
